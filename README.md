@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JunaidKhaleel093
-- 👀 I’m interested in learning and working as a web developer..
-- 🌱 I’m currently learning front end development
-- 📫 How to reach me- mail id- junaidkhaleel.093@gmail.com
+- 👋 Hi, I’m @JunaidKhaleel093, 
+- 👀 I’m interested in learning and working as a web developer.
+- 🌱 I’m currently learning front end development.
+- 💡 I would be grateful for any kind of assistance.
+- 📫 How to reach me- mail id- junaidkhaleel.093@gmail.com.
