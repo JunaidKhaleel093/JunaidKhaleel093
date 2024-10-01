@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @JunaidKhaleel093, 🌟 Welcome to My GitHub Profile!
-- 🚀 I'm excited about the limitless possibilities that lie ahead in Front End Web Development. My enthusiasm for emerging technologies and my dedication to excellence drive me to seek out diverse projects where I can contribute.
-- 💡 I  bring a strong foundation of academic knowledge, hands-on project experience, and a genuine passion for technology. Eager to learn and grow, I'm excited to collaborate and contribute to pushing the boundaries of innovation. Let’s connect and make an impact together!
+👋 Hi, I’m @JunaidKhaleel093, 🌟 Welcome to My GitHub Profile!
+
+🚀 I'm excited about the limitless possibilities that lie ahead in Front End Web Development. My enthusiasm for emerging technologies and my dedication to excellence drive me to seek out diverse projects where I can contribute.
+
+💡 I  bring a strong foundation of academic knowledge, hands-on project experience, and a genuine passion for technology. Eager to learn and grow, I'm excited to collaborate and contribute to pushing the boundaries of innovation. Let’s connect and make an impact together!
 - 🌍 I'm based in Bengaluru, Karnataka
 - 📧 You can contact me at [junaidkhaleel.093@gmail.com](mailto:junaidkhaleel.093@gmail.com)
 - ⚡I'm constantly exploring repositories and diving into new projects, always on the lookout for innovative solutions. My curiosity for tech drives me to spend more time learning and experimenting with new ideas than chasing the latest trends.
@@ -9,7 +11,7 @@
 ## 🛠 Skills
 
 <p align="center">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
