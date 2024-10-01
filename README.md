@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JunaidKhaleel093, 🌟 Welcome to My GitHub Profile!
 - 🚀 I'm excited about the limitless possibilities that lie ahead in Front End Web Development. My enthusiasm for emerging technologies and my dedication to excellence drive me to seek out diverse projects where I can contribute.
-💡 I  bring a strong foundation of academic knowledge, hands-on project experience, and a genuine passion for technology. Eager to learn and grow, I'm excited to collaborate and contribute to pushing the boundaries of innovation. Let’s connect and make an impact together!
+- 💡 I  bring a strong foundation of academic knowledge, hands-on project experience, and a genuine passion for technology. Eager to learn and grow, I'm excited to collaborate and contribute to pushing the boundaries of innovation. Let’s connect and make an impact together!
 - 🌍 I'm based in Bengaluru, Karnataka
 - 📧 You can contact me at [junaidkhaleel.093@gmail.com](mailto:junaidkhaleel.093@gmail.com)
 - ⚡I'm constantly exploring repositories and diving into new projects, always on the lookout for innovative solutions. My curiosity for tech drives me to spend more time learning and experimenting with new ideas than chasing the latest trends.
