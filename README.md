@@ -8,8 +8,8 @@
 - ⚡I'm constantly exploring repositories and diving into new projects, always on the lookout for innovative solutions. My curiosity for tech drives me to spend more time learning and experimenting with new ideas than chasing the latest trends.
 
 ## 🛠 Project's Links:
-# My-Portfolio- https://junaidkhaleel093.github.io/New-Portfolio/
-# HomeHaven- 
+My-Portfolio- https://junaidkhaleel093.github.io/New-Portfolio/
+HomeHaven- https://home-haven-black.vercel.app
 
 ## 🛠 Skills
 
