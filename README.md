@@ -9,8 +9,8 @@
 
 ## 🛠 Project's Links:
 
-My Portfolio- https://my-portfolio-delta-eight-84.vercel.app/
-HomeHaven- https://home-haven-black.vercel.app/
+My Portfolio- https://my-portfolio-delta-eight-84.vercel.app/ <br>
+HomeHaven- https://home-haven-black.vercel.app/ <br>
 JetSet Journeys- https://jetset-journeys.vercel.app/
 
 ## 🛠 Skills
