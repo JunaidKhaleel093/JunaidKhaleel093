@@ -30,7 +30,6 @@ JetSet Journeys- https://jetset-journeys.vercel.app/
 ## 🔗 Socials
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/JunaidKhaleel093)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaidkhaleel093)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/JunaidKhaleel96)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mohammed_junaid_khaleel)
