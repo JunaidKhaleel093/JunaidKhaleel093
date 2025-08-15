@@ -1,4 +1,4 @@
-👋 Hi, I’m @JunaidKhaleel093, 🌟 Welcome to My GitHub Profile!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — 🌟 Welcome to My GitHub Profile!
 
 🚀 I'm excited about the limitless possibilities that lie ahead in Full-Stack/MERN Development. My enthusiasm for emerging technologies and my dedication to excellence drive me to seek out diverse projects where I can contribute.
 
@@ -7,7 +7,7 @@
 - 📧 You can contact me at [junaidkhaleel.093@gmail.com](mailto:junaidkhaleel.093@gmail.com)
 - ⚡I'm constantly exploring repositories and diving into new projects, always on the lookout for innovative solutions. My curiosity for tech drives me to spend more time learning and experimenting with new ideas than chasing the latest trends.
 
-## 🛠 My Portfolio:
+## 🌐 My Portfolio:
 
 https://my-portfolio-delta-eight-84.vercel.app/ <br>
 
