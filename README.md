@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — <img src="https://media.giphy.com/media/4N1FZ2zQ8gJkVd7SoR/giphy.gif" width="25px"> **Welcome to My GitHub Profile!**
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — <img src="https://media.giphy.com/media/l0HlQ7LRalXh3XKFi/giphy.gif" width="30px"> **Welcome to My GitHub Profile!**
 
 ![Status](https://img.shields.io/badge/🚀%20Status-Coding%20in%20Progress-blue?style=for-the-badge)
 ![Tea](https://img.shields.io/badge/🍵%20Tea%20Level-High-brightgreen?style=for-the-badge)
