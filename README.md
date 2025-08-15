@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — <img src="https://github.com/your-username/your-repo/blob/main/assets/animated-tea.gif?raw=true" width="30px"> **Welcome to My GitHub Profile!**
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — ✨ **Welcome to My GitHub Profile!**
 
 ![Status](https://img.shields.io/badge/🚀%20Status-Coding%20in%20Progress-blue?style=for-the-badge)
 ![Tea](https://img.shields.io/badge/🍵%20Tea%20Level-High-brightgreen?style=for-the-badge)
@@ -14,7 +14,7 @@ Showcasing my work, skills, and projects with a modern, responsive design.
 
 ## My Skills👨‍💻
 
-### 🖥️ Languages
+#### 🖥️ Languages
 <div align="left" style="border: 2px solid #fff; padding: 12px; border-radius: 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="55" height="55" style="margin-right: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" height="55" style="margin-right: 20px;"/>
@@ -22,7 +22,7 @@ Showcasing my work, skills, and projects with a modern, responsive design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" style="margin-right: 20px;"/>
 </div>
 
-### 🚀 Frameworks & Libraries
+#### 🚀 Frameworks & Libraries
 <div align="left" style="border: 2px solid #fff; padding: 12px; border-radius: 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55" style="margin-right: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55" style="margin-right: 20px;"/>
@@ -37,7 +37,7 @@ Showcasing my work, skills, and projects with a modern, responsive design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="65" height="65" style="margin-right: 20px;"/>
 </div>
 
-### ⚙️ Tools
+#### 🛠️ Tools
 <div align="left" style="border: 2px solid #fff; padding: 12px; border-radius: 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin-right: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" style="margin-right: 20px;"/>
