@@ -7,13 +7,13 @@
 - 📧 You can contact me at [junaidkhaleel.093@gmail.com](mailto:junaidkhaleel.093@gmail.com)
 - ⚡I'm constantly exploring repositories and diving into new projects, always on the lookout for innovative solutions. My curiosity for tech drives me to spend more time learning and experimenting with new ideas than chasing the latest trends.
 
-## 🛠 Project's Links:
+## 🛠 My Portfolio:
 
-My Portfolio- https://my-portfolio-delta-eight-84.vercel.app/ <br>
-HomeHaven- https://home-haven-black.vercel.app/ <br>
-JetSet Journeys- https://jetset-journeys.vercel.app/
+https://my-portfolio-delta-eight-84.vercel.app/ <br>
 
-## 🛠 Skills
+Showcasing my work, skills, and projects with a modern, responsive design.
+
+## My Skills👨‍💻
 
 ### 🖥️ Languages
 <div align="left" style="border: 2px solid #fff; padding: 12px; border-radius: 10px; display: inline-block;">
