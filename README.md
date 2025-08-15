@@ -1,7 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — 🌟 Welcome to My GitHub Profile!
 
-![API Error](https://img.shields.io/badge/API%20Status-Error%20⚠️-red?style=for-the-badge)
-![Request Count](https://img.shields.io/badge/Request%20Count-Failed%20❌-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/🚀%20Status-Coding%20in%20Progress-blue?style=for-the-badge)
+![Visitors](https://img.shields.io/badge/👀%20Profile%20Views-1234-brightgreen?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/☕%20Caffeine%20Level-High-brown?style=for-the-badge)
 
 🚀 I'm excited about the limitless possibilities that lie ahead in Full-Stack/MERN Development. My enthusiasm for emerging technologies and my dedication to excellence drive me to seek out diverse projects where I can contribute.
 
