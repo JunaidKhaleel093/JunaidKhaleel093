@@ -22,7 +22,7 @@ Showcasing my work, skills, and projects with a modern, responsive design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin-right: 30px;"/>
 </div>
 
-
+<hr style="border: 0; height: 2px; background-color: white; margin: 20px 0;">
 
 #### 🚀 Frameworks & Libraries
 <div align="left" style="border: 2px solid white; padding: 15px; border-radius: 10px; display: inline-block; background-color: transparent;">
@@ -39,7 +39,7 @@ Showcasing my work, skills, and projects with a modern, responsive design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="70" height="70" style="margin-right: 30px;"/>
 </div>
 
-<hr style="border: 0; height: 4px; background-color: white; margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-color: white; margin: 20px 0;">
 
 #### 🛠️ Tools
 <div align="left" style="border: 2px solid white; padding: 15px; border-radius: 10px; display: inline-block; background-color: transparent;">
