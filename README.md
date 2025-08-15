@@ -1,15 +1,10 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — 🌟 Welcome to My GitHub Profile!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @JunaidKhaleel093 — <img src="https://media.giphy.com/media/4N1FZ2zQ8gJkVd7SoR/giphy.gif" width="25px"> **Welcome to My GitHub Profile!**
 
 ![Status](https://img.shields.io/badge/🚀%20Status-Coding%20in%20Progress-blue?style=for-the-badge)
 ![Tea](https://img.shields.io/badge/🍵%20Tea%20Level-High-brightgreen?style=for-the-badge)
 
-
-🚀 I'm excited about the limitless possibilities that lie ahead in Full-Stack/MERN Development. My enthusiasm for emerging technologies and my dedication to excellence drive me to seek out diverse projects where I can contribute.
-
-💡 I  bring a strong foundation of academic knowledge, hands-on project experience, and a genuine passion for technology. Eager to learn and grow, I'm excited to collaborate and contribute to pushing the boundaries of innovation. Let’s connect and make an impact together!
-- 🌍 I'm based in Bengaluru, Karnataka
-- 📧 You can contact me at [junaidkhaleel.093@gmail.com](mailto:junaidkhaleel.093@gmail.com)
-- ⚡I'm constantly exploring repositories and diving into new projects, always on the lookout for innovative solutions. My curiosity for tech drives me to spend more time learning and experimenting with new ideas than chasing the latest trends.
+🚀 Passionate Full-Stack/MERN developer eager to work on diverse, impactful projects.  
+💡 Always learning, building, and exploring innovative tech solutions.
 
 ## 🌐 My Portfolio:
 
